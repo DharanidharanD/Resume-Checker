@@ -1,0 +1,18 @@
+Job Title: Lead DevOps & Cloud Infrastructure Engineer
+Location: Austin, TX / Remote
+Experience Required: 6+ years in DevOps / Cloud Operations
+
+Job Description:
+Join our Infrastructure team to manage large-scale cloud operations across AWS and GCP.
+
+Responsibilities:
+- Design and automate cloud infrastructure using Terraform, Ansible, and AWS CloudFormation.
+- Manage production Kubernetes clusters (EKS), container orchestration, and Helm charts.
+- Build resilient CI/CD pipelines with GitHub Actions, Jenkins, and Docker.
+- Implement automated monitoring, alerting, and observability with Prometheus, Grafana, and ELK Stack.
+- Ensure security compliance, Zero Trust network architectures, and 99.99% system availability.
+
+Required Skills:
+- 6+ years in Cloud & DevOps engineering.
+- Deep expertise with AWS, Docker, Kubernetes, Terraform, Linux, CI/CD, and Python/Bash scripting.
+- Strong knowledge of microservices, networking, Prometheus, and Grafana.

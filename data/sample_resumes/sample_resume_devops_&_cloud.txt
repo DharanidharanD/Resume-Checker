@@ -1,0 +1,31 @@
+Rohan Rodriguez
+Cloud Solutions Architect | Chicago, IL
+Email: rohan.rodriguez73@example.com | Phone: +1 (652) 453-7217
+LinkedIn: https://linkedin.com/in/rohan-rodriguez-977 | GitHub: https://github.com/rohanrodriguez
+
+PROFESSIONAL SUMMARY
+Results-driven Cloud Solutions Architect with 14+ years of experience in DevOps & Cloud. Proven track record of delivering scalable solutions, driving team success, and executing high-impact initiatives.
+
+CORE SKILLS & TECHNOLOGIES
+GitHub Actions, Azure, GCP, Terraform, Helm, GitLab CI, Bash, Ansible, CI/CD, Grafana, Linux, AWS, Collaboration, Critical Thinking, Communication
+
+PROFESSIONAL EXPERIENCE
+**Senior Cloud Solutions Architect** | Amazon (2022 - Present)
+- Designed end-to-end CI/CD release pipelines with GitHub Actions and Jenkins, cutting deployment cycle times by 60%.
+- Administered production Kubernetes clusters (EKS/GKE), writing custom Helm charts and managing service meshes.
+
+**Cloud Solutions Architect** | Goldman Sachs (2020 - 2022)
+- Maintained 99.99% system availability through proactive reliability engineering and disaster recovery drills.
+- Established comprehensive observability, alerting, and log aggregation using Prometheus, Grafana, and ELK Stack.
+
+**Cloud Solutions Architect** | Meta (2018 - 2020)
+- Automated multi-region cloud infrastructure provisioning using Terraform and AWS CloudFormation.
+- Maintained 99.99% system availability through proactive reliability engineering and disaster recovery drills.
+
+KEY PROJECTS
+- **Unified Observability Stack with Grafana dashboards, Prometheus metrics, and automated Slack alerts.**: Unified Observability Stack with Grafana dashboards, Prometheus metrics, and automated Slack alerts.
+- **Zero-Downtime Multi-Cluster Kubernetes Deployment Platform on AWS with ArgoCD.**: Zero-Downtime Multi-Cluster Kubernetes Deployment Platform on AWS with ArgoCD.
+
+EDUCATION & CERTIFICATIONS
+- MBA in Business Analytics, Technical University of Munich (Graduated: 2012)
+- Certified DevOps & Cloud Professional

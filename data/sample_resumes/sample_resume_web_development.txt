@@ -1,0 +1,31 @@
+Mateo Taylor
+Web Applications Engineer | Singapore
+Email: mateo.taylor23@example.com | Phone: +1 (858) 414-8728
+LinkedIn: https://linkedin.com/in/mateo-taylor-550 | GitHub: https://github.com/mateotaylor
+
+PROFESSIONAL SUMMARY
+Results-driven Web Applications Engineer with 14+ years of experience in Web Development. Proven track record of delivering scalable solutions, driving team success, and executing high-impact initiatives.
+
+CORE SKILLS & TECHNOLOGIES
+GraphQL, JavaScript, PostgreSQL, Redux, React.js, Express, Webpack, Next.js, TypeScript, Adaptability, Leadership, Communication
+
+PROFESSIONAL EXPERIENCE
+**Senior Web Applications Engineer** | Snowflake (2023 - Present)
+- Enhanced web performance metrics, improving Core Web Vitals (LCP, INP, CLS) by 45%.
+- Architected responsive, accessible user interfaces using Next.js, React, and Tailwind CSS serving 2M+ monthly visitors.
+
+**Web Applications Engineer** | Infosys (2021 - 2023)
+- Architected responsive, accessible user interfaces using Next.js, React, and Tailwind CSS serving 2M+ monthly visitors.
+- Maintained state management across complex web applications using Redux Toolkit and React Query.
+
+**Web Applications Engineer** | IBM (2018 - 2021)
+- Enhanced web performance metrics, improving Core Web Vitals (LCP, INP, CLS) by 45%.
+- Maintained state management across complex web applications using Redux Toolkit and React Query.
+
+KEY PROJECTS
+- **E-Commerce Micro-Frontend Platform with Next.js 14, Stripe Payments, and Tailwind CSS.**: E-Commerce Micro-Frontend Platform with Next.js 14, Stripe Payments, and Tailwind CSS.
+- **Real-Time Collaboration Dashboard**: Real-Time Collaboration Dashboard using React, TypeScript, GraphQL Subscriptions, and Node.js.
+
+EDUCATION & CERTIFICATIONS
+- B.Tech in Information Technology, Indian Institute of Technology (IIT) Delhi (Graduated: 2012)
+- Certified Web Development Professional

@@ -1,0 +1,19 @@
+Job Title: Senior Full Stack Engineer (React / Node.js)
+Location: New York, NY / Hybrid
+Experience Required: 5+ years of software development experience
+
+About the Role:
+We are looking for a Senior Full Stack Engineer to lead the architecture and development of our customer-facing web applications.
+
+Key Responsibilities:
+- Build modern, high-performance web applications using React, Next.js, and TypeScript.
+- Architect scalable RESTful APIs and GraphQL services using Node.js, Express, and PostgreSQL.
+- Implement responsive UI components using Tailwind CSS and maintain state with Redux.
+- Optimize web performance, Core Web Vitals, and ensure accessibility standards (WCAG).
+- Write comprehensive unit and integration tests using Jest and Cypress.
+
+Required Skills:
+- 5+ years of experience in Web Development and Full-Stack Engineering.
+- Expertise in JavaScript, TypeScript, React, Next.js, Node.js, and HTML5/CSS3.
+- Hands-on experience with PostgreSQL, MongoDB, REST API, Docker, and CI/CD.
+- Bachelor's degree in Computer Science or equivalent practical experience.

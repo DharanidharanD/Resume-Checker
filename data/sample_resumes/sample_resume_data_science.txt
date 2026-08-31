@@ -1,0 +1,23 @@
+Morgan Davis
+Data Science Specialist | Los Angeles, CA
+Email: morgan.davis58@example.com | Phone: +1 (419) 298-9688
+LinkedIn: https://linkedin.com/in/morgan-davis-120 | GitHub: https://github.com/morgandavis
+
+PROFESSIONAL SUMMARY
+Results-driven Data Science Specialist with 3+ years of experience in Data Science. Proven track record of delivering scalable solutions, driving team success, and executing high-impact initiatives.
+
+CORE SKILLS & TECHNOLOGIES
+Scikit-Learn, TensorFlow, Seaborn, Statistical Analysis, NumPy, Data Mining, Data Visualization, SQL, Pandas, Critical Thinking, Communication, Agile
+
+PROFESSIONAL EXPERIENCE
+**Data Science Specialist** | Apple (2024 - Present)
+- Designed and analyzed A/B test experiments evaluating new recommendation algorithms for over 5M active users.
+- Built automated ETL data pipelines in Python and SQL extracting insights from multi-terabyte data lakes.
+
+KEY PROJECTS
+- **Automated Sales Forecasting Pipeline utilizing ARIMA, Prophet, and PyTorch.**: Automated Sales Forecasting Pipeline utilizing ARIMA, Prophet, and PyTorch.
+- **Customer Churn Prediction Engine with 89% AUC**: Customer Churn Prediction Engine with 89% AUC using Random Forest and LightGBM.
+
+EDUCATION & CERTIFICATIONS
+- Bachelor of Business Administration, Technical University of Munich (Graduated: 2023)
+- Certified Data Science Professional

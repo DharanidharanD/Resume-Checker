@@ -1,0 +1,31 @@
+Lucas Thomas
+Cyber Security Analyst | Austin, TX
+Email: lucas.thomas64@example.com | Phone: +1 (981) 565-3919
+LinkedIn: https://linkedin.com/in/lucas-thomas-367 | GitHub: https://github.com/lucasthomas
+
+PROFESSIONAL SUMMARY
+Results-driven Cyber Security Analyst with 11+ years of experience in Cyber Security. Proven track record of delivering scalable solutions, driving team success, and executing high-impact initiatives.
+
+CORE SKILLS & TECHNOLOGIES
+Penetration Testing, Firewalls, Metasploit, Network Security, Cybersecurity, Ethical Hacking, CISSP, SOC, IAM, Adaptability, Collaboration, Problem Solving
+
+PROFESSIONAL EXPERIENCE
+**Senior Cyber Security Analyst** | Deloitte (2022 - Present)
+- Executed red-team penetration tests and web application vulnerability assessments using Burp Suite and Metasploit.
+- Implemented Identity and Access Management (IAM) policies and Zero Trust architecture across cloud workloads.
+
+**Cyber Security Analyst** | Netflix (2018 - 2022)
+- Audited code repositories for OWASP Top 10 vulnerabilities and integrated SAST/DAST into CI/CD pipelines.
+- Executed red-team penetration tests and web application vulnerability assessments using Burp Suite and Metasploit.
+
+**Cyber Security Analyst** | Google (2015 - 2018)
+- Monitored enterprise SIEM systems (Splunk/Sentinel), investigating anomalous alerts and mitigating cyber threats.
+- Audited code repositories for OWASP Top 10 vulnerabilities and integrated SAST/DAST into CI/CD pipelines.
+
+KEY PROJECTS
+- **Automated Vulnerability Scanning and Remediation Orchestrator with Python and Burp Suite API.**: Automated Vulnerability Scanning and Remediation Orchestrator with Python and Burp Suite API.
+- **Threat Intelligence Feeds Aggregator and Custom SIEM Correlation Rules Engine.**: Threat Intelligence Feeds Aggregator and Custom SIEM Correlation Rules Engine.
+
+EDUCATION & CERTIFICATIONS
+- B.Tech in Information Technology, Georgia Tech (Graduated: 2015)
+- Certified Cyber Security Professional

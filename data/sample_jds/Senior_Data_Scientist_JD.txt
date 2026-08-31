@@ -1,0 +1,20 @@
+Job Title: Senior Data Scientist - AI & Analytics
+Location: San Francisco, CA / Remote
+Experience Required: 4+ years of professional experience
+
+Job Overview:
+We are seeking an experienced Senior Data Scientist to design, implement, and scale machine learning and NLP solutions. You will work on predictive modeling, recommendation engines, and LLM-powered applications.
+
+Key Responsibilities:
+- Build and evaluate machine learning models using Python, Scikit-Learn, PyTorch, and TensorFlow.
+- Conduct A/B testing and statistical analysis to validate model performance and user impact.
+- Design feature engineering pipelines and work with multi-terabyte data in SQL and Pandas.
+- Collaborate with MLOps engineers to deploy containerized models via Docker and FastAPI.
+- Present data visualizations and actionable insights to executive leadership using Tableau and Matplotlib.
+
+Required Qualifications & Skills:
+- 4+ years of experience in Data Science, Machine Learning, and NLP.
+- Strong proficiency in Python, SQL, Scikit-Learn, Pandas, NumPy, and PyTorch.
+- Experience with Deep Learning, Transformers, LLMs, and Data Visualization (Tableau, Seaborn).
+- Master's degree or Ph.D. in Computer Science, Statistics, Data Science, or related technical field.
+- Excellent communication and problem-solving skills.
